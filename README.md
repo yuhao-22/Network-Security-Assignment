@@ -1,5 +1,5 @@
-# Network-Security-Assignment
-This assignment design and implemented of an enterprise network security architecture using Palo Alto Networks next-generation firewalls across multisite environments, Singapore and Malaysia. It focuses on applying Palo Alto’s core capabilities such as zone-based segmentation, App-ID, User-ID, SSL decryption, and security policies to control traffic between departments while enforcing least privilege. 
+# Network-Security-Project
+This project design and implemented of an enterprise network security architecture using Palo Alto Networks next-generation firewalls across multisite environments, Singapore and Malaysia. It focuses on applying Palo Alto’s core capabilities such as zone-based segmentation, App-ID, User-ID, SSL decryption, and security policies to control traffic between departments while enforcing least privilege. 
 
 
 Advanced features including GlobalProtect VPN, WildFire malware analysis, Anti-Virus, Anti-Spyware, DNS sinkholing, DDoS protection, and High Availability are configured and tested
